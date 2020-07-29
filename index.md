@@ -7,7 +7,7 @@ Software Engineer, Sociologist, Sales Manager.
 
 <div id="webaddress">
 <a href="michael.ion.mi@outlook.com">michael.ion.mi@outlook.com</a>
-| <a href="http://michael-ion.com">My portfolio page</a>
+| <a href="http://www.michael-ion.com">My portfolio page</a>
 </div>
 
 
@@ -38,8 +38,7 @@ __Queensbourough Community College, Bayside, NY__
 
 ## Occupation
 
-`Wireless Advocates 2007 - 2016`
-__Commack__, US
+`Wireless Advocates 2007 - 2016`  __Commack__
 
 
 
